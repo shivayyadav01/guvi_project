@@ -34,4 +34,8 @@ A **GUI-based Shopping Cart Application** built in **Java (Swing)**. This deskto
 ---
 
 ## 🗂️ Project Structure
+ShoppingCartApp/
+├── src/
+│ └── ShoppingCartApp.java # Main application file
+└── README.md # You're reading it
 
